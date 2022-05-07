@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Test1</string>
+    <string name="activity_A_title">Activity A</string>
+    <string name="activity_B_title">Activity B</string>
+    <string name="activity_C_title">Activity C</string>
+    <string name="button_1">Start B</string>
+    <string name="button_2">Start C</string>
+    <string name="button_3">Finish A</string>
+    <string name="button_4">Dialog</string>
+    <string name="button_b1">Start A</string>
+    <string name="button_b2">Start C</string>
+    <string name="button_b3">Finish B</string>
+    <string name="button_c1">Start A</string>
+    <string name="button_c2">Start B</string>
+    <string name="button_c3">Finish C</string>
+    <string name="text_LML">Lifecycle Mothod List</string>
+    <string name="text_AS">Activity Status</string>
+    <string name="dlg_title">Simple Dialog</string>
+    <string name="dlg_content">This will pause activity A</string>
+    <string name="b_dlg_content">This will pause activity B</string>
+    <string name="c_dlg_content">This will pause activity C</string>
+    <string name="inner_btn">Gotta it</string>
+</resources>
